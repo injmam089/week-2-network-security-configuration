@@ -172,7 +172,7 @@ The assessment is based on publicly available cybersecurity frameworks, security
 
 **Injmam Ansari**
 
-🎓 BCA Student  
+🎓 BCA Student At Integral University Lucknow 
 🔐 Cybersecurity Intern  
 📍 India
 
